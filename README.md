@@ -7,6 +7,9 @@ Allowing HTTP(Port80) and HTTPS (Port 443) traffic from the internet
 Restricting SSH(Port 22) access to smartshop IP adresss only.
 Below is the screenshot of the security group created for smartshop
 !{security group detail}(/Security Group.png)
+### setting up inbound rules
+
+### setting up outbound rules
 
 ### creating ec2 instance for smart shop with already existing vpc and subnets
  Below is the screenshot of the ec2 instance created for smartshop
