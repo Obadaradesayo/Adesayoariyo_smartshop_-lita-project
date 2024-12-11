@@ -16,5 +16,5 @@ Below is the screenshot of the security group created for smartshop
  ### SSH into Apache web server
  The Apache helps to host the ec2 instance
 Below is the screenshot of the completed Apache web server
-!{
+!{Apache}(Apache.png)
 
