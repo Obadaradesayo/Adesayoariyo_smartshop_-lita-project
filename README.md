@@ -6,12 +6,13 @@ security groups enables controlling of traffic based on IP address and port numb
 Allowing HTTP(Port80) and HTTPS (Port 443) traffic from the internet
 Restricting SSH(Port 22) access to smartshop IP adresss only.
 Below is the screenshot of the security group created for smartshop
-!{security group detail}(/security Group.png)
+!{security group detail}(/Security Group.png)
 
 ### creating ec2 instance for smart shop with already existing vpc and subnets
  Below is the screenshot of the ec2 instance created for smartshop
- !{ec2 instance}(ec2 instance 1.png)
+ !{ec2 instance}(Ec2 instance 1.png)
  ### SSH into Apache web server
  The Apache helps to host the ec2 instance
 Below is the screenshot of the completed Apache web server
+!{
 
