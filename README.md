@@ -10,3 +10,4 @@ Restricting SSH(Port 22) access to smartshop IP adresss only.
  Below is the screenshot of the ec2 instance created for smartshop
  
  ##SSH into Apache web server
+Below is the 
