@@ -1,7 +1,7 @@
 # Adesayoariyo_smartshop_ lita project
 creating and deploying a reliable scalable ec2 instance for smartshop, a mid-sized retail company. It also documents the process of deploying an Apache web server on it.
 ### setting up Nacl Inbound rules
-
+https://github.com/Obadaradesayo/Adesayoariyo_smartshop_-lita-project/blob/main/Nacl%20inbound%20rules.jpg
 
 ### setting up Nacl outbound rules
 The Nacls were attached to 
