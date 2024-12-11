@@ -10,9 +10,9 @@ Below is the screenshot of the security group created for smartshop
 
 ### creating ec2 instance for smart shop with already existing vpc and subnets
  Below is the screenshot of the ec2 instance created for smartshop
- !{ec2 instance}(ec2 instance 1.png)
- !{ec2 instance](ec2 instance 2.png)
- !{ec2 instance}(ec2 instance 3.png) 
+ !{ec2 instance}(/ec2 instance 1.png)
+ !{ec2 instance](/ec2 instance 2.png)
+ !{ec2 instance}(/ec2 instance 3.png) 
  ### SSH into Apache web server
  The Apache helps to host the ec2 instance
 Below is the screenshot of the completed Apache web server
