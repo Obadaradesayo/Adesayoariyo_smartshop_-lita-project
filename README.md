@@ -1,5 +1,5 @@
 # Adesayoariyo_smartshop_ lita project
-creating and deploying a reliable scalable ec2 instance for smartshop, a mid-sized retail company. It also documents the process of deploying an Apache web server on it.
+Creating and deploying a reliable scalable ec2 instance for smartshop, a mid-sized retail company. It also documents the process of deploying an Apache web server on it.
 The mid-sized retail launching an onlione store helps the company grow and also makes shopping easier for customers. Below are the sample images that shows online shopping.
 ![WhatsApp Image 2024-12-12 at 20 33 30_2fdfe572](https://github.com/user-attachments/assets/55ccf2de-298f-44c5-9fbc-7734cf87652d)
 ![WhatsApp Image 2024-12-12 at 20 33 30_6a01857a](https://github.com/user-attachments/assets/569214e2-4732-4b74-bb77-b03ecaa8ec4c)
