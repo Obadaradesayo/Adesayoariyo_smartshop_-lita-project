@@ -24,6 +24,8 @@ Below is the screenshot of the security group created for smartshop
  ![ec2 instance 1](https://github.com/user-attachments/assets/0a601212-0713-47ab-bc39-39e4ad382d9b)
 
  ![ec2 instance 2](https://github.com/user-attachments/assets/382dff62-3b74-4c58-976b-8c8afe3d1029)
+ ![ec2 instance 3](https://github.com/user-attachments/assets/f03c7324-e5ee-4263-85e9-9f700dcc3eac)
+
  
 
  !{ec2 instance}(/ec2 instance 1.jpg)
