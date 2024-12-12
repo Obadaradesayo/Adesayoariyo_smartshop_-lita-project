@@ -4,6 +4,10 @@ creating and deploying a reliable scalable ec2 instance for smartshop, a mid-siz
 ![WhatsApp Image 2024-12-12 at 20 33 30_6a01857a](https://github.com/user-attachments/assets/569214e2-4732-4b74-bb77-b03ecaa8ec4c)
 
 
+https://github.com/user-attachments/assets/10ce159a-094f-4a49-9e3e-b6d86d876024
+
+
+
 ### setting up Nacl Inbound rules
 ![Nacl inbound rules](https://github.com/user-attachments/assets/ab3094ab-2ad7-4bc3-b9ec-5218ebd6622c)
 
