@@ -1,6 +1,8 @@
 # Adesayoariyo_smartshop_ lita project
 creating and deploying a reliable scalable ec2 instance for smartshop, a mid-sized retail company. It also documents the process of deploying an Apache web server on it.
 ![WhatsApp Image 2024-12-12 at 20 33 30_2fdfe572](https://github.com/user-attachments/assets/55ccf2de-298f-44c5-9fbc-7734cf87652d)
+![WhatsApp Image 2024-12-12 at 20 33 30_6a01857a](https://github.com/user-attachments/assets/569214e2-4732-4b74-bb77-b03ecaa8ec4c)
+
 
 ### setting up Nacl Inbound rules
 ![Nacl inbound rules](https://github.com/user-attachments/assets/ab3094ab-2ad7-4bc3-b9ec-5218ebd6622c)
