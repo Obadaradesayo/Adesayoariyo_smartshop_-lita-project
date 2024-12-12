@@ -15,6 +15,7 @@ Restricting SSH(Port 22) access to smartshop IP adresss only.
 Below is the screenshot of the security group created for smartshop
 !{security group detail}(/Security Group.png)
 
+![Security Group](https://github.com/user-attachments/assets/1985e7a6-e0db-49e7-802c-40692e883cb6)
 
 
 
