@@ -1,6 +1,6 @@
 # Adesayoariyo_smartshop_ lita project
 Creating and deploying a reliable scalable ec2 instance for smartshop, a mid-sized retail company. It also documents the process of deploying an Apache web server on it.
-The mid-sized retail launching an onlione store helps the company grow and also makes shopping easier for customers. Below are the sample images that shows online shopping.
+The mid-sized retail launching an online store helps the company grow and also makes shopping easier for customers. Below are the sample images that shows online shopping.
 ![WhatsApp Image 2024-12-12 at 20 33 30_2fdfe572](https://github.com/user-attachments/assets/55ccf2de-298f-44c5-9fbc-7734cf87652d)
 ![WhatsApp Image 2024-12-12 at 20 33 30_6a01857a](https://github.com/user-attachments/assets/569214e2-4732-4b74-bb77-b03ecaa8ec4c)
 
@@ -19,7 +19,7 @@ The Nacls were attached to
 ![Nacl outbound rule](https://github.com/user-attachments/assets/186d8362-d510-44ee-aaac-db477a0d937d)
 
 ### creation of security group
-security groups enables controlling of traffic based on IP address and port number. It also enables you to define inbound and outbound rules to specify whioch traffic is allowed to flow in and out of your resources.The security group created for smartshopis to control inbound and outbound traffic to their ec2 instances. It allows and restrict the following commands.
+Security groups enables controlling of traffic based on IP address and port number. It also enables you to define inbound and outbound rules to specify whioch traffic is allowed to flow in and out of your resources.The security group created for smartshopis to control inbound and outbound traffic to their ec2 instances. It allows and restrict the following commands.
 Allowing HTTP(Port80) and HTTPS (Port 443) traffic from the internet
 Restricting SSH(Port 22) access to smartshop IP adresss only.
 Below is the screenshot of the security group created for smartshop
@@ -38,13 +38,11 @@ Below is the screenshot of the security group created for smartshop
 
  
 
- !{ec2 instance}(/ec2 instance 1.jpg)
- !{ec2 instance](/ec2 instance 2.jpg)
- !{ec2 instance}(/ec2 instance 3.jpg) 
+ 
  ### SSH into Apache web server
  The Apache helps to host the ec2 instance
 Below is the screenshot of the completed Apache web server
-!{Apache}(Apache.jpg)
+
 ![Apache](https://github.com/user-attachments/assets/84c9e75d-cf71-496e-af6a-cff86c9b3b8d)
 
 
