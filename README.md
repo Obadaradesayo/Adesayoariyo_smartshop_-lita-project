@@ -1,10 +1,7 @@
 # Adesayoariyo_smartshop_ lita project
 creating and deploying a reliable scalable ec2 instance for smartshop, a mid-sized retail company. It also documents the process of deploying an Apache web server on it.
 ### setting up Nacl Inbound rules
-<<<<<<< HEAD
 
-=======
->>>>>>> b778971fa700e9b3061c461cf6c6f29a28786c49
 
 ### setting up Nacl outbound rules
 The Nacls were attached to 
@@ -21,9 +18,9 @@ Below is the screenshot of the security group created for smartshop
 
 ### creating ec2 instance for smart shop with already existing vpc and subnets
  Below is the screenshot of the ec2 instance created for smartshop
- !{ec2 instance}(/ec2 instance 1.JPG)
- !{ec2 instance](/ec2 instance 2.JpG)
- !{ec2 instance}(/ec2 instance 3.JPG) 
+ !{ec2 instance}(/ec2 instance 1.jpg)
+ !{ec2 instance](/ec2 instance 2.jpg)
+ !{ec2 instance}(/ec2 instance 3.jpg) 
  ### SSH into Apache web server
  The Apache helps to host the ec2 instance
 Below is the screenshot of the completed Apache web server
