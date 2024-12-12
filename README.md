@@ -7,7 +7,8 @@ The mid-sized retail launching an onlione store helps the company grow and also 
 
 https://github.com/user-attachments/assets/10ce159a-094f-4a49-9e3e-b6d86d876024
 
-
+## Configuring NACL for smartshop
+The NACL were attached to the created public and private subnets. Inbound and Outbound rules were also defined. Allowing  HTTP(80) and SSH (22)
 
 ### setting up Nacl Inbound rules
 ![Nacl inbound rules](https://github.com/user-attachments/assets/ab3094ab-2ad7-4bc3-b9ec-5218ebd6622c)
